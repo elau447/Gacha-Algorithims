@@ -46,11 +46,12 @@ def WorstCase(pulls, guaranteed):
 def main():
     # Example usage
     
-    rate = 0.016  # 1.6% chance
+    rate = 0.016  # 1.6% chance because we take the consolidated rate
     pulls = 650
     print(f"Rate: {rate*100}%, Pulls: {pulls}")
     timestohit = 7
     calculate_probability(rate, pulls, timestohit)
+    
     averagepulls = 66  # Average pulls to get a 5-Star
     calculate_average_case(averagepulls, pulls)
     guaranteed = False  # Whether you have a guaranteed 5-Star

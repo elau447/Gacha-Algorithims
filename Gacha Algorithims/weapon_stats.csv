@@ -1,0 +1,13 @@
+Name,Wolf's Gravestone,Primordial Jade Winged-Spear,Amos' Bow,Staff of Homa,Polar Star,Vortex Vanquisher,Cinnabar Spindle
+weapon_base_atk,608,674,608,608,608,608,454
+weapon_substat_type,atk_percent,crit_rate,atk_percent,crit_dmg,crit_rate,atk_percent,def_percent
+weapon_substat_value,0.496,0.221,0.496,0.662,0.331,0.496,0.693
+passive_atk_bonus,0.4,0.12,0.12,0,0,0.01,0
+passive_dmg_bonus,0,0,0,0,0.12,0,0
+em,0,0,0,0,0,0,0
+atk_percent_bonus,0,0,0,0,0,0,0
+def_percent_bonus,0,0,0,0,0,0,0
+hp_percent_bonus,0,0,0,0,0,0,0
+crit_rate_bonus,0,0,0,0,0,0,0
+crit_dmg_bonus,0,0,0,0,0,0,0
+energy_recharge_bonus,0,0,0,0,0,0,0

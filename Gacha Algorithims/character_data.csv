@@ -1,0 +1,10 @@
+Name,Diluc,Xiao,Ganyu,Hu Tao,Childe
+weapon_atk,640,580,720,608,650
+character_atk,330,284,335,348,301
+atksubstat,0.2,0.15,0.25,0.18,0.22
+atkArtifact,0.932,0.8,1.0,0.75,0.85
+atkWeapon,0.8,0.6,0.9,0.7,0.75
+crit_dmg,1.8,1.6,2.0,2.2,1.7
+crit_rate,0.9,0.7,0.8,0.85,0.75
+elemental_bonus,0.75,0.6,0.8,0.9,0.65
+normal_damage_bonus,0.75,0.5,0.9,0.6,0.8
